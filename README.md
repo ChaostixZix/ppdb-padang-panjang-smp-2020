@@ -1,47 +1,18 @@
-# PPDB SMP Padang Panjang 2020 🏫
+# ppdb-padang-panjang-smp-2020
 
-Sistem Informasi Penerimaan Peserta Didik Baru (PPDB) untuk SMP di Kota Padang Panjang Tahun 2020.
+## Status
+Legacy / prototype project.
 
-![Dashboard Preview](screenshot/Screenshot%202025-02-15%20at%2001.44.12.png)
+## Overview
+Laravel-based PPDB application for the 2020 SMP admissions cycle in Padang Panjang, with applicant announcement pages, school listings, and UI screenshots in the repository.
 
-## About The Project
+## Historical Context
+This repository appears to capture the 2020 iteration of the Padang Panjang SMP admissions system, including a newer frontend stack with Inertia.js.
 
-PPDB SMP Padang Panjang adalah sistem informasi berbasis web yang digunakan untuk mengelola dan mengumumkan hasil penerimaan siswa baru SMP di Kota Padang Panjang. Sistem ini mendukung berbagai jalur penerimaan:
+## Demo
+See the screenshot directory for archived homepage, school list, and announcement screens.
 
-- 📊 Jalur Zonasi
-- 🏆 Jalur Prestasi
-- 🤝 Jalur Afirmasi
-- 📝 Jalur Pindah Tugas
-
-## Features
-
-- Dashboard informatif dengan statistik real-time
-- Pengumuman hasil seleksi per sekolah
-- Informasi detail setiap jalur penerimaan
-- Tampilan responsif untuk semua perangkat
-- Data pendaftar terorganisir per jalur masuk
-
-## Tech Stack
-
-- Laravel
-- Vue.js
-- Inertia.js
-- Bootstrap
-- MySQL
-
-## Screenshots
-
-### Homepage
-![Homepage](screenshot/Screenshot%202025-02-15%20at%2001.44.12.png)
-
-### School List
-![School List](screenshot/Screenshot%202025-02-15%20at%2001.44.16.png)
-
-### Announcement Page
-![Announcement](screenshot/Screenshot%202025-02-15%20at%2001.44.21.png)
-
-## Installation
-
-1. Clone the repository
+## Setup / Notes
 ```bash
-git clone https://github.com/yourusername/PPDB.SMP.Padang_Panjang.2020.git
+# Legacy Laravel 7 project; local setup depends on the original .env, database, and runtime services.
+```
